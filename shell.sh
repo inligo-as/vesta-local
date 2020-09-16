@@ -1,0 +1,1 @@
+docker exec -w /usr/local/vesta -it vesta-docker /bin/bash
